@@ -9,7 +9,7 @@ if exists("b:current_syntax")
   finish
 endif
 
-syn keyword	gclKeyword	inherit include true false null and or not
+syn keyword	gclKeyword	inherit include true false null and or not base
 syn keyword	gclConditional	if else then
 syn keyword     gclBrace        ( ) { } =
 
